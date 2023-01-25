@@ -60,10 +60,19 @@ prismjs:
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ""
-  per_page: 10
-  order_by: -date
+
+# Hexo built in index generator
+# 
+# index_generator:
+#   path: ""
+#  per_page: 10
+#  order_by: -date
+
+# Using  hexo-generator-index2
+# https://github.com/Jamling/hexo-generator-index2/blob/master/README.md
+#
+# whether the hexo-generator-index2 include the offical hexo-generator-index, default is true
+index2_include_index: true # defult is true
 
 # Category & Tag
 default_category: uncategorized

@@ -8,6 +8,11 @@ tags: BlogSettings
 - This blog is based on the framework [hexo](https://hexo.io/)
 - The theme is [NexT](https://theme-next.js.org/)
 
+## Hexo 
+
+- hexo-cli
+- hexo-deployer-git
+
 ## Github Settings
 
 - Workflow permission
