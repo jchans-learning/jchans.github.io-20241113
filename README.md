@@ -1,4 +1,4 @@
 # Github Page Blog
 
-- Using Hexo
-- 2023-02-13 purchased domain "multitoolman.com"
+- A personal blog created using Hexo
+- 2023-02-13 purchased domain "multitoolman.com," added the custom domain [blog.multitoolman.com](https://blog.multitoolman.com/)
