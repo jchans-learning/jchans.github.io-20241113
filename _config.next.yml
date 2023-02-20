@@ -103,6 +103,8 @@ menu:
   TRPG: /TRPG/ || fa fa-dice-d20
   Records: /Records/ || fa fa-floppy-disk
   tags: /tags/ || fa fa-tags
+  GitHub: https://github.com/jchans || fab fa-github
+  E-Mail: mailto:jiangchenghans@gmail.com || fa fa-envelope
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
