@@ -50,7 +50,7 @@ darkmode: false
 favicon:
   small: /favicon-16x16-next.png
   medium: /favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
+  apple_touch_icon: /apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
 
