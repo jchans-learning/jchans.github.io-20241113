@@ -100,11 +100,11 @@ menu:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   Notes: /Notes/ || fa fa-scroll
-  TRPG: /TRPG/ || fa fa-dice-d20
-  Records: /Records/ || fa fa-floppy-disk
   tags: /tags/ || fa fa-tags
-  GitHub: https://github.com/jchans || fab fa-github
   E-Mail: mailto:jiangchenghans@gmail.com || fa fa-envelope
+  #Records: /Records/ || fa fa-floppy-disk
+  #TRPG: /TRPG/ || fa fa-dice-d20
+  #GitHub: https://github.com/jchans || fab fa-github
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
