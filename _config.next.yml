@@ -48,8 +48,8 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: the-cat-2023_16x16.jpg
-  medium: the-cat-2023_32x32.jpg
+  small: /favicon-16x16-next.png
+  medium: /favicon-32x32-next.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
