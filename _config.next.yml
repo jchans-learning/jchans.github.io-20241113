@@ -48,14 +48,14 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
+  small: https://blog.multitoolman.com/images/site/the-cat-2023_16x16.png
+  medium: https://blog.multitoolman.com/images/site/the-cat-2023_32x32.png
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
-custom_logo: https://blog.multitoolman.com/images/the-cat-2023_200x200.jpg
+custom_logo: https://blog.multitoolman.com/images/site/the-cat-2023_200x200.jpg
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
