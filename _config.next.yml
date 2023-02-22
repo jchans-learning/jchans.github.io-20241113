@@ -51,7 +51,7 @@ favicon:
   small: /favicon-16x16-next.png
   medium: /favicon-32x32-next.png
   apple_touch_icon: /apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  safari_pinned_tab: /favicon-32x32-next.png
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
