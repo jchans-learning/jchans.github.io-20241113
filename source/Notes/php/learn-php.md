@@ -23,6 +23,13 @@ sudo apt install libapache2-mod-php
 sudo apt install php8.1-sqlite3
 ```
 
+### Commands
+
+```bash
+# Start PHP interactive shell
+php -a
+```
+
 ## sqlite3
 
 Some command
