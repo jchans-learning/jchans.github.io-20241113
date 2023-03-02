@@ -5,3 +5,4 @@
 - [Session 02](./session-02)
 - [Session 03](./session-03)
 - [Session 04](./session-04)
+- [Side Story 01](./side-story-session-01)
