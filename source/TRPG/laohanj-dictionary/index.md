@@ -110,12 +110,12 @@
 ### P | ㄆ
 
 - 跑團
-- Player
+- player
 - PBM：Play-by-Mail
 - PBP：Play-by-Post
 - PG
-- Power Gamer
-- Power Gaming
+- power gamer
+- power gaming
 
 ### Q | ㄑ
 
@@ -124,9 +124,9 @@
 ### R
 
 - 人物卡
-- Replay
-- Rules
-- Rule Lawyer
+- replay
+- rules
+- rule lawyer
 
 ### S ㄙ | Sh ㄕ
 
@@ -137,7 +137,7 @@
 - 骰塔
 - 骰子
 - 撕卡
-- Solo adventure
+- solo adventure
 - SRD
 
 ### T | ㄊ
