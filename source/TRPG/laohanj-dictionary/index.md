@@ -111,8 +111,10 @@
 
 - 跑團
 - player
-- PBM：Play-by-Mail
-- PBP：Play-by-Post
+- Play-by-Mail
+- Play-by-Post
+- PBM
+- PBP
 - PG
 - power gamer
 - power gaming
@@ -123,6 +125,7 @@
 
 ### R
 
+- 人物表
 - 人物卡
 - replay
 - rules
