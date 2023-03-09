@@ -8,11 +8,6 @@ tags:
   - 部落格管理
 ---
 
-![Multitoolmann v1](/images/multitoolman-v2_640x384.jpg)
-
-<!-- 以下是自訂圖片大小的語法，但不是 Markdown 的語法，所以只是存參 -->
-<!-- {% img /images/multitoolman-v2_640x384.jpg 350 What is this test %} -->
-
 最近打算開始寫點筆記，但部落格形式依照時間排序，久了會很不好找資料，所以會用一個頁面來手動整理相關部落格文章。讓自己以後找資料也方便。
 
 <!-- more -->
