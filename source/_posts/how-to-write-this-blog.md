@@ -1,6 +1,7 @@
 ---
 title: 這個 blog 的用法
 date: 2023-02-15 03:21:42
+categories: blog
 tags:
   - 資料整理作法
   - 寫作筆記

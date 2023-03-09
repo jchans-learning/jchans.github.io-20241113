@@ -98,7 +98,7 @@ menu:
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   Notes: /Notes/ || fa fa-scroll
-  TRPG: /TRPG/ || fa fa-dice-d20
+  #TRPG: /TRPG/ || fa fa-dice-d20
   #Records: /Records/ || fa fa-floppy-disk
   #GitHub: https://github.com/jchans || fab fa-github
   #E-Mail: mailto:jiangchenghans@gmail.com || fa fa-envelope
