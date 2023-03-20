@@ -1,5 +1,6 @@
-# Side Story Session 01
+## Session 04D01 跑團後摘要
 
+- 舊標題：Side Story Session 01
 - 模組：無
 - 備註：候補團員試跑磨合，第一部分，三人
 
