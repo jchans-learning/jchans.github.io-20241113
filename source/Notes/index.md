@@ -9,6 +9,10 @@ date: 2023-01-26 22:47:07
 
 - [Hexo](./hexo)
 
+## Editors
+
+- [VSCode](./VSCode)
+
 ## Notes
 
 - [tmux](./tmux)
