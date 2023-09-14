@@ -4,7 +4,7 @@ date: 2023-01-26 22:47:07
 ---
 
 - [此部落格使用方式](/2023/02/15/how-to-write-this-blog/)
-- [在 Hackmd 上寫的一些筆記](https://hackmd.io/@laohanj)
+- [Hackmd 的筆記目錄](https://hackmd.io/@laohanj/r1BZb9xya)
 
 ## Blogging
 
