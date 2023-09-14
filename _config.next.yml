@@ -102,8 +102,8 @@ menu:
   #Records: /Records/ || fa fa-floppy-disk
   #GitHub: https://github.com/jchans || fab fa-github
   #E-Mail: mailto:jiangchenghans@gmail.com || fa fa-envelope
-  #tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
   archives: /archives/ || fa fa-archive
 
 # Enable / Disable menu icons / item badges.
