@@ -5,7 +5,7 @@
 ![插入圖片例子](./../images/memo-images/2023-02-23.png)
 
 ```
-![插入圖片例子](./images/memo-images/2023-02-23.png)
+![插入圖片例子](./../images/memo-images/2023-02-23.png)
 ```
 
 - [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it)
