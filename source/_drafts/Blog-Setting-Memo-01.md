@@ -1,6 +1,6 @@
 ---
 title: Blog Setting Memo 01
-tags: BlogSettings
+tags: drafts
 ---
 
 # Some Links and Memos about This Blog
@@ -8,7 +8,7 @@ tags: BlogSettings
 - This blog is based on the framework [hexo](https://hexo.io/)
 - The theme is [NexT](https://theme-next.js.org/)
 
-## Hexo 
+## Hexo
 
 - hexo-cli
 - hexo-deployer-git
@@ -16,7 +16,7 @@ tags: BlogSettings
 ## Github Settings
 
 - Workflow permission
-    - Settings/Actions/General/Workflow Permission/Read and write permissions
+  - Settings/Actions/General/Workflow Permission/Read and write permissions
 - Deploy problems
-    - Check deploy git repo is using ssh link
-    - Check theme is added to git submodule
+  - Check deploy git repo is using ssh link
+  - Check theme is added to git submodule

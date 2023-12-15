@@ -39,7 +39,7 @@ external_link:
   field: site # Apply to the whole site
   exclude: ""
 filename_case: 0
-render_drafts: false
+render_drafts: true
 post_asset_folder: false
 relative_link: false
 future: true
@@ -62,7 +62,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 
 # Hexo built in index generator
-# 
+#
 # index_generator:
 #   path: ""
 #  per_page: 10
@@ -110,28 +110,28 @@ theme: next
 
 # Markdown
 markdown:
-  preset: 'default'
+  preset: "default"
   render:
     html: true
     xhtmlOut: false
-    langPrefix: 'language-'
+    langPrefix: "language-"
     breaks: true
     linkify: true
     typographer: true
-    quotes: '“”‘’'
+    quotes: "“”‘’"
   enable_rules:
   disable_rules:
   plugins:
     - markdown-it-footnote
   anchors:
     level: 2
-    collisionSuffix: ''
+    collisionSuffix: ""
     permalink: false
-    permalinkClass: 'header-anchor'
-    permalinkSide: 'left'
-    permalinkSymbol: '¶'
+    permalinkClass: "header-anchor"
+    permalinkSide: "left"
+    permalinkSymbol: "¶"
     case: 0
-    separator: '-'
+    separator: "-"
   images:
     lazyload: false
     prepend_root: false
