@@ -1,4 +1,6 @@
 ---
-title: {{ title }}
+title: { { title } }
+date: { { date } }
+categories:
 tags:
 ---
