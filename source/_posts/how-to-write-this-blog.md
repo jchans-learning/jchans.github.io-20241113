@@ -61,3 +61,28 @@ Notes 打算整理 2023 年開始（寫這篇的時候是 2023-02-15 ）的網�
 ## 其他
 
 先簡單設定一些想遵循的規則或作法，之後再慢慢修訂。
+
+### 插入圖片
+
+檔案統一放在 ./source/image 資料夾裡
+
+![插入圖片例子](/images/memo-images/2023-02-23.png)
+
+```
+![插入圖片例子](/images/memo-images/2023-02-23.png)
+```
+
+### 註腳
+
+- [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it)
+  - Use this for footnote. [^footnote-example]
+
+```
+- [hexo-renderer-markdown-it](https://github.com/hexojs/hexo-renderer-markdown-it)
+  - Use this for footnote. [^footnote-example]
+
+
+[^footnote-example]: This is an example footnote.
+```
+
+[^footnote-example]: This is an example footnote.
